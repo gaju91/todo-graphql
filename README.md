@@ -1,5 +1,7 @@
 # 🚀 Raw GraphQL ToDo App
 
+https://github.com/user-attachments/assets/8d35892f-6fe7-4081-9b17-3d590b53d7d9
+
 A **raw** ToDo app built with **Express**, **GraphQL**, and a simple **Vanilla JavaScript frontend**. No Apollo Server, no fancy frameworks, just pure GraphQL goodness in the backend and a basic frontend to get things done! 🦾✅
 
 Perfect for learning how to build APIs and interact with them through a simple UI. 😎
